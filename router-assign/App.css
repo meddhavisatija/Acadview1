@@ -1,0 +1,38 @@
+body{
+    font-family: 'Courier', sans-serif;
+    background-color: rosybrown;
+}
+.logo{
+    padding-left: 30px;
+    font-size: 40px;
+    font-weight: bold;
+}
+.image1{
+    height: 100px;
+    width: 100px;
+    float:left;
+    padding-bottom:20px;
+
+}
+.a{
+    font-weight: bold;
+    color: purple;
+}
+.a1{
+    font-size: 22px;
+
+}
+label{
+    font-size: 16px;
+    font-weight: bold;
+    color: black;
+}
+.font{
+    font-size: 22px;
+}
+.del{
+    border-radius: 10px;
+    color: black;
+    background: palegreen;
+    padding: 8px;
+}
