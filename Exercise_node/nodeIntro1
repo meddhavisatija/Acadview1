@@ -1,0 +1,5 @@
+var my_module = require('./my_module');
+console.log(my_module.multiplication(10,20));
+console.log(my_module.add(10,20));
+console.log(my_module.subtract(100,20));
+console.log(my_module.divide(10,20));

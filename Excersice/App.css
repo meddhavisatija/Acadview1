@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  
+}
+.App1
+{
+  border-style: solid;
+  margin:0 550px 50px 550px;
+  border-radius:50px;
+  box-shadow: 5px 10px #888888;
+  border-color: dimgray;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  background-color: #FFEFD5;
+
+}
+.p
+{
+  margin:10px;
+}
